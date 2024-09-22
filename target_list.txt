@@ -1,0 +1,2 @@
+Minimum_frequency	2	Comparison_range	60	indicator_range	15	window	25
+20240721_NGS	305	306	307	308	309	310	311
